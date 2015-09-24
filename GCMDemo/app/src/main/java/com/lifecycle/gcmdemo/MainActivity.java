@@ -16,8 +16,7 @@ import java.io.IOException;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    String GCM_PROJECT = "1039285805057";
-    String GCM_KEY = "AIzaSyDJxgrvsUsuX6Fpt8Cg3sQ9GczCDd9VByQ";
+    String GCM_PROJECT = "";
 
     Button btnRegId;
     EditText etRegId;
